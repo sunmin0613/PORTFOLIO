@@ -317,6 +317,10 @@ a.active {
 
 }
 
+#main_banner video {
+    vertical-align: middle;
+}
+
 @media only screen and (min-width:1200px) {
 
 
@@ -452,7 +456,7 @@ a.active {
 
 #about {
     padding: 200px 0;
-    background: url(../img/bg_power.gif)no-repeat #95cb6e;
+    background: url(../img/bg_power.gif)no-repeat #f5edb1 bottom;
     background-size: contain;
 }
 
